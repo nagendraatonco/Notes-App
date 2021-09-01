@@ -1,0 +1,2 @@
+This is the first not created via a fs module.
+This is the example to show append the input at the end.
